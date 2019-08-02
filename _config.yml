@@ -86,12 +86,18 @@ topics:
     web_url: https://github.com/topics/docker
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
 
+  - name: Elastic Search
+    image_url: https://www.elastic.co/static/images/elastic-logo-200.png
+
   - name: Flask
     web_url: https://github.com/topics/flask
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png
 
   - name: JSON
     web_url: https://github.com/topics/json
+
+  - name: Kibana
+    image_url: https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png  
   
   - name: Kubernetes
     web_url: https://github.com/topics/kubernetes
@@ -100,6 +106,9 @@ topics:
   - name: Linux
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+
+  - name: Logstash
+    image_url: https://vocon-it.com/wp-content/uploads/2016/11/2016-11-17-17_10_26-https___static-www-elastic-co_assets_bltdf06b3795cdbfb45_elastic-logstash-fw-svg.png
 
   - name: Machine learning
     web_url: https://github.com/topics/machine-learning
