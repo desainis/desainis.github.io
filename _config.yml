@@ -69,24 +69,30 @@ topics:
   
   - name: Code Quality
     web_url: https://github.com/topics/code-quality
+    image_url: https://miro.medium.com/max/1200/1*RrUCTzdqztRtMRinaG5V3Q.png
 
   - name: Continuous Integration
     web_url: https://github.com/topics/continuous-integration
+    image_url: https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2018/integration.png
 
   - name: Data Structures
     web_url: https://github.com/topics/data-structures
+    image_url: https://cdn1.iconfinder.com/data/icons/artificial-intelligence-1-2/128/Bynary-Tree-Hierarchy-Data-Structure-Nodes-512.png
 
   - name: Data visualization
     web_url: https://github.com/topics/data-visualization
+    image_url: https://cdn1.iconfinder.com/data/icons/network-and-hosting-6/48/2-512.png
   
   - name: Deep learning
     web_url: https://github.com/topics/deep-learning
+    image_url: https://static.thenounproject.com/png/1870030-200.png
 
   - name: Docker
     web_url: https://github.com/topics/docker
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
 
   - name: Elastic Search
+    web_url: https://www.elastic.co/
     image_url: https://www.elastic.co/static/images/elastic-logo-200.png
 
   - name: Flask
@@ -95,8 +101,10 @@ topics:
 
   - name: JSON
     web_url: https://github.com/topics/json
+    image_url: http://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/256/app-json-icon.png
 
   - name: Kibana
+    web_url: https://www.elastic.co/products/kibana
     image_url: https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png  
   
   - name: Kubernetes
@@ -108,10 +116,12 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
   - name: Logstash
+    web_url: https://www.elastic.co/products/logstash
     image_url: https://vocon-it.com/wp-content/uploads/2016/11/2016-11-17-17_10_26-https___static-www-elastic-co_assets_bltdf06b3795cdbfb45_elastic-logstash-fw-svg.png
 
   - name: Machine learning
     web_url: https://github.com/topics/machine-learning
+    image_url: https://images.idgesg.net/images/article/2018/01/emerging-tech_ai_machine-learning-100748222-large.jpg
 
   - name: Node.js
     web_url: https://github.com/topics/nodejs
@@ -130,6 +140,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
   - name: REST API
+    image_url: https://www.quicsolv.com/wp-content/uploads/rest-api-icon-300x300.png
     web_url: https://github.com/topics/rest-api
   
   - name: Terraform
@@ -141,4 +152,5 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
 
   - name: Deployment
+    image_url: https://cdn1.iconfinder.com/data/icons/software-development-blue/64/deployment-upload-worldwide-software-development-512.png
     web_url: https://github.com/topics/deployment
