@@ -17,7 +17,7 @@ Site Reliability Engineer at IBM Cloud. I specialize in automating day-to-day op
 
 ### Specialized in
 
-Infrastructure as a Code (IAAS), Scheduling & Monitoring (NewRelic), Configuration Management (Ansible), ChatOps (Slack)
+Infrastructure as a Code (IaaS), Scheduling & Monitoring (NewRelic), Configuration Management (Ansible), ChatOps (Slack)
 
 
 ### Tools and Technologies
