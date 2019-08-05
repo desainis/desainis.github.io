@@ -22,7 +22,7 @@ Infrastructure as a Code (IAAS), Scheduling & Monitoring (NewRelic), Configurati
 
 ### Tools and Technologies
 
-Ansible, Chef, Rundeck, Docker, ChatOps (Slack), NewRelic, ElasticSearch, Kibana, TravisCI, Jenkins, Kubernetes, Nagios, QRadar, Git, Apache, Websphere, IIS, Python, Javascript, Data Analysis, Xen, Pagerduty, ServiceNow
+Ansible, Apache, ChatOps (Slack), Chef, Data Analysis, Docker, ElasticSearch, Git, IIS, Javascript, Jenkins, Kibana, Kubernetes, Nagios, NewRelic, Pagerduty, Python, QRadar, Rundeck, ServiceNow, Terraform, TravisCI, Websphere, Xen
 
 
 ## Education
@@ -30,7 +30,7 @@ Ansible, Chef, Rundeck, Docker, ChatOps (Slack), NewRelic, ElasticSearch, Kibana
 `2012-2018`
 __University of Toronto, Scarborough, ON__
 
-Bachelor's of Science, Computer Science - Software Engineering Stream
+Bachelor's of Science, Computer Science Specialist - Software Engineering Stream
 
 `2008-2012`
 __Milliken Mills High School, Markham, ON__
@@ -88,10 +88,29 @@ __QuiCloset__, A tool that instantly provides a tool clothes that **you're looki
 ## Extra Curricular(s)
 
 `2017-2018`
-Web Developer, University of Toronto
+__University of Toronto__, Toronto, ON
+
+- Web Developer 
+
+• Assisted in designing, developing and providing enhancements to the Italian studies website for students using HTML, CSS, Javascript and jQuery. 
+
+• Improved team communications and project management by implementing tools such as Trello and Slack in order to effectively track progress.
+
+• Constructed an Agile work environment by using Kanban boards and daily scrum sessions to communicate with the professor and assigning priority to each issue.
 
 `2018-2018`
-Teaching Assistant, University of Toronto
+__University of Toronto__, Toronto, ON
+
+- Teaching Assistant
+
+• Provided a deeper understanding of the lecture material by teaching a separate class of 40 students for 1 hour every week reducing student questions. 
+
+• Functioned as a liaison between the professor and student by providing weekly handouts and emails that enhanced exam preparedness.
+
+• Worked with students on an individual and small group basis to provide a better understanding of the course material leading to better exam results.
 
 `2018-2018`
-Teaching Facilitator, Under the GUI Academy Inc.
+__Under the GUI Academy Inc.__, Toronto, ON
+
+- Teaching Facilitator
+
