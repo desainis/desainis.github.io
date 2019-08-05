@@ -13,7 +13,7 @@ Site Reliability Engineer focused on ChatOps solutions, configuration management
 
 ## Currently
 
-Site Reliability Engineer at IBM Cloud. I specialize in automating day-to-day operations for IBM Planning Analytics on Cloud (PAoC) which is a planning, budgeting, forecasting and analysis solution, available for deployment on premise or in the cloud. Currently, I'm working on ChatOps solutions for handling with our infrastructure.
+Site Reliability Engineer at IBM Cloud. I specialize in automating day-to-day operations for IBM Planning Analytics on Cloud (PAoC) which is a planning, budgeting, forecasting and analysis solution, available for deployment on premise or in the cloud. Currently, I'm working on ChatOps solutions for handling our infrastructure.
 
 ### Specialized in
 
