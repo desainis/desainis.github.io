@@ -3,7 +3,7 @@ layout: cv
 title: Nishant Desai
 ---
 # Nishant Desai
-Site Reliability Engineer focused on ChatOps solutions, configuration management, and Infrastructure as a Code (IAAS). 
+Site Reliability Engineer
 
 <div id="webaddress">
 <a href="nishantdesai@live.com">nishantdesai@live.com</a>
