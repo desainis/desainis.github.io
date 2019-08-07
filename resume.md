@@ -7,8 +7,8 @@ Site Reliability Engineer
 
 <div id="webaddress">
   <a href="nishantdesai@live.com">nishantdesai@live.com</a>
-| <a href="https://www.linkedin.com/in/nishant-desai/">LinkedIn</a>
-  <a href="(+1) 647-829-5139">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/nishant-desai/">LinkedIn |</a>
+  <a href="">(+1) 647-829-5139</a>
 </div>
 
 
@@ -48,9 +48,9 @@ __IBM__, Markham, ON
 
 • Designed and implemented adaptive chatops framework for installation and customization of multitenant cloud environments and their integration with distributed data sources.
 
-• Implement and maintain monitoring solutions at the server and application level in order to increase visibility into day-to-day operations and issues, utilizing NewRelic, Nagios, and .
+• Implement and maintain monitoring solutions at the server and application level in order to increase visibility into day-to-day operations and issues, utilizing NewRelic and Nagios. 
 
-• Lead initiatives to transition critical software services into the Cloud, and provide training for other employees on the Cloud transition process for other portions of the product/organization.
+• Lead initiatives to transition critical software services into the Cloud and provided training for other employees on the Cloud transition process for other portions of the product/organization.
 
 `2015-2018`
 __SOCAN__, Toronto, ON
