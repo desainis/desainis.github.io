@@ -6,14 +6,16 @@ title: Nishant Desai
 Site Reliability Engineer
 
 <div id="webaddress">
-<a href="nishantdesai@live.com">nishantdesai@live.com</a>
+  <a href="nishantdesai@live.com">nishantdesai@live.com</a>
 | <a href="https://www.linkedin.com/in/nishant-desai/">LinkedIn</a>
+  <a href="(+1) 647-829-5139">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Site Reliability Engineer at IBM Cloud. I specialize in automating day-to-day operations for IBM Planning Analytics on Cloud (PAoC) which is a planning, budgeting, forecasting and analysis solution, available for deployment on premise or in the cloud. Currently, I'm working on ChatOps solutions for handling our infrastructure.
+
+Site Reliability Engineer (SRE) specializing in Python, Go, and JavaScript based stacks with experience using different hybrid cloud platforms such as IBM Cloud, AWS, and Google Cloud Platform. Fast learner and adaptive to any modern day cloud platforms. Incorporating ChatOps into our day-to-day operations has been my focus for the past six months at IBM. 
 
 ### Specialized in
 
@@ -42,19 +44,13 @@ __IBM__, Markham, ON
 
 - Site Reliability Engineer
 
-• Collaborating with Customer Support to resolve complex Software as a Service customer issues spanning application and cloud infrastructure
+• Implemented, tested and monitored microservices in the datacenter cloud environments for Planning Analytics on Cloud platform. Performing continuous integration and delivery of new microservices, on-demand trouble shooting of large-scale deployment issues on Linux systems. Started and maintained How-To series of knowledge items, sharing acquired information about installation, integration and deployment for services on privately hosted and public clouds (IBM Cloud).
 
-• Developing novel solutions for challenging operational problems and interfaces between SaaS offerings
+• Designed and implemented adaptive chatops framework for installation and customization of multitenant cloud environments and their integration with distributed data sources.
 
-• Driving technical excellence and improvement across all top IBM Analytics offerings
+• Implement and maintain monitoring solutions at the server and application level in order to increase visibility into day-to-day operations and issues, utilizing NewRelic, Nagios, and .
 
-• Ensuring overall system health and integrity of IBM infrastructure and systems working to develop and refine monitoring solutions for IBM customers
-
-• Gathering performance, capacity, root cause analysis data using automation skills
-
-• Owning technical operations responsibilities as part of existing IBM cloud projects related to automation, process improvement and the integrity of various systems and infrastructure
-
-• Provisioning, deploying, testing and documenting pre-production and production customer environments
+• Lead initiatives to transition critical software services into the Cloud, and provide training for other employees on the Cloud transition process for other portions of the product/organization.
 
 `2015-2018`
 __SOCAN__, Toronto, ON
