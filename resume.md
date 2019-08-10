@@ -74,7 +74,10 @@ __Leonardo__, Toronto, ON
 
 • Partnered with developers and architects to design test driven development strategies and acceptance test plans using JIRA within a Scrum/Agile environment.
 
-## Projects 
+## Projects
+`2019-Current`
+__cbot__, An [open source](https://github.com/desainis/cloud-bot) slackbot that helps manage infrastructure resources. 
+
 `2019-Current`
 __Analytiq__, An [open source](https://github.com/desainis/analytiq) slackbot that knows everything about stocks. 
 
