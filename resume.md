@@ -76,7 +76,7 @@ __Leonardo__, Toronto, ON
 
 ## Projects
 `2019-Current`
-__cbot__, An [open source](https://github.com/desainis/cloud-bot) slackbot that helps manage infrastructure resources. 
+__Splink__, An [open source](https://github.com/desainis/splink) slackbot that helps manage infrastructure resources. 
 
 `2019-2019`
 __Analytiq__, An [open source](https://github.com/desainis/analytiq) slackbot that knows everything about stocks. 
