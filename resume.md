@@ -81,9 +81,6 @@ __Splink__, An [open source](https://github.com/desainis/splink) slackbot that h
 `2019-2019`
 __Analytiq__, An [open source](https://github.com/desainis/analytiq) slackbot that knows everything about stocks. 
 
-`2019-Current`
-__QuiCloset__, A tool that instantly provides a tool clothes that **you're looking for**. 
-
 ## Extra Curricular(s)
 
 `2017-2018`
