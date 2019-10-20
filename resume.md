@@ -104,9 +104,3 @@ __University of Toronto__, Toronto, ON
 • Functioned as a liaison between the professor and student by providing weekly handouts and emails that enhanced exam preparedness.
 
 • Worked with students on an individual and small group basis to provide a better understanding of the course material leading to better exam results.
-
-`2018-2018`
-__Under the GUI Academy Inc.__, Toronto, ON
-
-- Teaching Facilitator
-
