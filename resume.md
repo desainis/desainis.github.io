@@ -14,13 +14,11 @@ Site Reliability Engineer
 
 ## Currently
 
-
-Site Reliability Engineer (SRE) specializing in Python, Go, and JavaScript based stacks with experience using different hybrid cloud platforms such as IBM Cloud, AWS, and Google Cloud Platform. Fast learner and adaptive to any modern day cloud platforms. Incorporating ChatOps into our day-to-day operations has been my focus for the past six months at IBM. 
+Site Reliability Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud (a Cognos TM1 offering). 
 
 ### Specialized in
 
 Infrastructure as a Code (IaaS), Scheduling & Monitoring (NewRelic), Configuration Management (Ansible), ChatOps (Slack)
-
 
 ### Tools and Technologies
 
