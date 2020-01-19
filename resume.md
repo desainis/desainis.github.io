@@ -22,7 +22,7 @@ Infrastructure as a Code (IaaS), Scheduling & Monitoring (NewRelic), Configurati
 
 ### Tools and Technologies
 
-Ansible, Apache, ChatOps (Slack), Chef, Data Analysis, Docker, ElasticSearch, Git, IIS, Javascript, Jenkins, Kibana, Kubernetes, Nagios, NewRelic, Pagerduty, Python, QRadar, Rundeck, ServiceNow, Terraform, TravisCI, Websphere, Xen
+**Ansible**, Apache, ChatOps (Slack), **Docker**, ElasticSearch, Git, Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, **Rundeck**, ServiceNow, Terraform, TravisCI
 
 
 ## Education
