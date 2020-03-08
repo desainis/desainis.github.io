@@ -8,7 +8,7 @@ Site Reliability Engineer
 <div id="webaddress">
   <a href="nishantdesai@live.com">nishantdesai@live.com</a>
 | <a href="https://www.linkedin.com/in/nishant-desai/">LinkedIn |</a>
-  <a href="https://github.com/desainis">GitHub |</a>
+  <a href="https://github.com/desainis">GitHub (@desainis) |</a>
   <a href="">(+1) 647-829-5139</a>
 </div>
 
