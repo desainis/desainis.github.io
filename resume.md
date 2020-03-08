@@ -84,21 +84,4 @@ __Analytiq__, An [open source](https://github.com/desainis/analytiq) slackbot th
 `2017-2018`
 __University of Toronto__, Toronto, ON
 
-- Web Developer 
-
-• Assisted in designing, developing and providing enhancements to the Italian studies website for students using HTML, CSS, Javascript and jQuery. 
-
-• Improved team communications and project management by implementing tools such as Trello and Slack in order to effectively track progress.
-
-• Constructed an Agile work environment by using Kanban boards and daily scrum sessions to communicate with the professor and assigning priority to each issue.
-
-`2018-2018`
-__University of Toronto__, Toronto, ON
-
-- Teaching Assistant
-
-• Provided a deeper understanding of the lecture material by teaching a separate class of 40 students for 1 hour every week reducing student questions. 
-
-• Functioned as a liaison between the professor and student by providing weekly handouts and emails that enhanced exam preparedness.
-
-• Worked with students on an individual and small group basis to provide a better understanding of the course material leading to better exam results.
+- Web Developer, Teaching Assistant
