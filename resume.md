@@ -33,9 +33,6 @@ __University of Toronto, Scarborough, ON__
 
 Bachelor's of Science, Computer Science Specialist - Software Engineering Stream
 
-`2008-2012`
-__Milliken Mills High School, Markham, ON__
-
 ## Occupation
 
 `2018-Current`
