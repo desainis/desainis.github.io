@@ -14,15 +14,15 @@ Site Reliability Engineer
 
 ## Currently
 
-Site Reliability Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud (a Cognos TM1 offering). 
+Site Reliability Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud, improving application lifecycle, evolving software systems to increase their reliability, monitoring application performance, and ensuring overall system health. 
 
 ### Specialized in
 
-Infrastructure as a Code (IaaS), Scheduling & Monitoring (NewRelic), Configuration Management (Ansible), ChatOps (Slack)
+Infrastructure as a Code (IaaS), Scheduling & Monitoring (NewRelic), Configuration Management (Ansible), Containerization Strategies (Docker & Kubernetes)
 
 ### Tools and Technologies
 
-**Ansible**, Apache, ChatOps (Slack), **Docker**, ElasticSearch, Git, Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, **Rundeck**, ServiceNow, Terraform, TravisCI
+**Ansible**, Apache, ChatOps (Slack), **Docker**, ElasticSearch, Git, Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, **Rundeck**, ServiceNow, Terraform, **TravisCI**
 
 
 ## Education
@@ -73,7 +73,7 @@ __Leonardo__, Toronto, ON
 • Partnered with developers and architects to design test driven development strategies and acceptance test plans using JIRA within a Scrum/Agile environment.
 
 ## Projects
-`2019-Current`
+`2019-2020`
 __Splink__, An [open source](https://github.com/desainis/splink) slackbot that helps manage infrastructure resources. 
 
 `2019-2019`
