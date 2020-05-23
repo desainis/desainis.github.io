@@ -15,15 +15,15 @@ Site Reliability Engineer
 
 ## Currently
 
-Site Reliability Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud, improving application lifecycle, evolving software systems to increase their reliability, monitoring application performance, and ensuring overall system health. 
+DevOps Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud, improving application lifecycle, evolving software systems to increase their reliability, monitoring application performance, and ensuring overall system health. 
 
 ### Specialized in
 
-Infrastructure as a Code (IaaS), Scheduling & Monitoring (NewRelic), Configuration Management (Ansible), Containerization Strategies (Docker & Kubernetes)
+Infrastructure as a Code (IaC), Scheduling & Monitoring (NewRelic), Configuration Management (Ansible), Containerization Strategies (Docker & Kubernetes)
 
 ### Tools and Technologies
 
-**Ansible**, Apache, ChatOps (Slack), **Docker**, ElasticSearch, Git, Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, **Rundeck**, ServiceNow, Terraform, **TravisCI**
+**Ansible**, AWS, Apache, ChatOps (Slack), **Docker**, ElasticSearch, Git, Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, **Rundeck**, ServiceNow, Terraform, **TravisCI**
 
 
 ## Education
@@ -38,7 +38,7 @@ Bachelor's of Science, Computer Science Specialist - Software Engineering Stream
 `2018-Current`
 __IBM__, Markham, ON
 
-- Site Reliability Engineer
+- DevOps Engineer
 
 • Implemented, tested and monitored microservices in the datacenter cloud environments for Planning Analytics on Cloud platform. Performing continuous integration and delivery of new microservices, on-demand trouble shooting of large-scale deployment issues on Linux systems. Started and maintained How-To series of knowledge items, sharing acquired information about installation, integration and deployment for services on privately hosted and public clouds (IBM Cloud).
 
