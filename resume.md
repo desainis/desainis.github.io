@@ -3,7 +3,7 @@ layout: cv
 title: Nishant Desai
 ---
 # Nishant Desai
-Site Reliability Engineer
+DevOps Engineer
 
 <div id="webaddress">
   <a href="nishantdesai@live.com">nishantdesai@live.com</a>
