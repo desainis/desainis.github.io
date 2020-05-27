@@ -40,7 +40,7 @@ __IBM__, Markham, ON
 
 - DevOps Engineer
 
-• Implemented, tested and monitored microservices in the datacenter cloud environments for Planning Analytics on Cloud platform. Performing continuous integration and delivery of new microservices, on-demand trouble shooting of large-scale deployment issues on Linux systems. Started and maintained How-To series of knowledge items, sharing acquired information about installation, integration and deployment for services on privately hosted and public clouds (IBM Cloud).
+• Implemented, tested and monitored microservices in the datacenter cloud environments for Planning Analytics on Cloud platform. Performing continuous integration and delivery of new microservices, on-demand trouble shooting of large-scale deployment issues on Linux systems. Started and maintained How-To series of knowledge items, sharing acquired information about installation, integration and deployment for services on privately hosted and public clouds.
 
 • Designed and implemented adaptive chatops framework for installation and customization of multitenant cloud environments and their integration with distributed data sources.
 
