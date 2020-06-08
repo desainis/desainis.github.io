@@ -73,8 +73,6 @@ __Simple Kubernetes__, An [open source](https://github.com/desainis/simplek8s) s
 
 __Splink__, An [open source](https://github.com/desainis/splink) slackbot that helps manage infrastructure resources.
 
-__Analytiq__, An [open source](https://github.com/desainis/analytiq) slackbot that knows everything about stocks. 
-
 ## Extra Curricular(s)
 
 `2017-2018`
