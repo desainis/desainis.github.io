@@ -17,10 +17,6 @@ DevOps Engineer
 
 DevOps Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud, improving application lifecycle, evolving software systems to increase their reliability, monitoring application performance, and ensuring overall system health. 
 
-### Specialized in
-
-Infrastructure as a Code (IaC), Scheduling & Monitoring (NewRelic), Configuration Management (Ansible), Containerization Strategies (Docker & Kubernetes)
-
 ### Tools and Technologies
 
 Active MQ, API Gateway, **Ansible**, Auto-Scaling Groups, Apache, Amazon Aurora, Amazon Kinesis, AWS, AWS Global Accelerator, AWS Lambda, AWS KMS, ChatOps (Slack), CloudWatch, CloudFront, CloudTrail, **Docker**, DynamoDB, EC2, ElasticSearch, Elastic Block Store (EBS), ElastiCache, Elastic Load Balancers (ELB), Elastic File System (EFS), Git, Identity & Access Management (IAM), Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, RDS, Route 53, **Rundeck**, S3, Simple Queue Service (SQS), Simple Notification Service (SNS), ServiceNow, Terraform, **TravisCI**
