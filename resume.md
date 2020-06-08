@@ -23,7 +23,7 @@ Infrastructure as a Code (IaC), Scheduling & Monitoring (NewRelic), Configuratio
 
 ### Tools and Technologies
 
-**Ansible**, AWS, Apache, ChatOps (Slack), **Docker**, ElasticSearch, Git, Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, **Rundeck**, ServiceNow, Terraform, **TravisCI**
+Active MQ, API Gateway, **Ansible**, Auto-Scaling Groups, Apache, Amazon Aurora, Amazon Kinesis, AWS, AWS Global Accelerator, AWS Lambda, AWS KMS, ChatOps (Slack), CloudWatch, CloudFront, CloudTrail, **Docker**, DynamoDB, EC2, ElasticSearch, Elastic Block Store (EBS), ElastiCache, Elastic Load Balancers (ELB), Elastic File System (EFS), Git, Identity & Access Management (IAM), Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, RDS, Route 53, **Rundeck**, S3, Simple Queue Service (SQS), Simple Notification Service (SNS), ServiceNow, Terraform, **TravisCI**
 
 
 ## Education
