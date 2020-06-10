@@ -19,8 +19,7 @@ DevOps Engineer at IBM pioneering the birth of a microservice architecture for P
 
 ### Tools and Technologies
 
-Active MQ, API Gateway, **Ansible**, Auto-Scaling Groups, Apache, Amazon Aurora, Amazon Kinesis, AWS, AWS Global Accelerator, AWS Lambda, AWS KMS, ChatOps (Slack), CloudWatch, CloudFront, CloudTrail, **Docker**, DynamoDB, EC2, ElasticSearch, Elastic Block Store (EBS), ElastiCache, Elastic Load Balancers (ELB), Elastic File System (EFS), Git, Identity & Access Management (IAM), Jenkins, Kibana, **Kubernetes**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, RDS, Route 53, **Rundeck**, S3, Simple Queue Service (SQS), Simple Notification Service (SNS), ServiceNow, Terraform, **TravisCI**
-
+Active MQ, API Gateway, Ansible, Auto-Scaling Groups, Apache, Amazon Aurora, Amazon Kinesis, AWS, AWS Global Accelerator, AWS Lambda, AWS KMS, ChatOps (Slack), CloudWatch, CloudFront, CloudTrail, Docker, DynamoDB, EC2, ElasticSearch, Elastic Block Store (EBS), ElastiCache, Elastic Load Balancers (ELB), Elastic File System (EFS), Git, Identity & Access Management (IAM), Jenkins, Kibana, Kubernetes, **Node.js**, Nagios, NewRelic, Pagerduty, **Python**, QRadar, RDS, Route 53, Rundeck, S3, Simple Queue Service (SQS), Simple Notification Service (SNS), ServiceNow, Terraform, TravisCI
 
 ## Education
 
@@ -36,11 +35,11 @@ __IBM__, Markham, ON
 
 - DevOps Engineer
 
-• Implemented, tested and monitored microservices in the datacenter cloud environments for Planning Analytics on Cloud platform. Performing continuous integration and delivery of new microservices, on-demand trouble shooting of large-scale deployment issues on Linux systems. Started and maintained How-To series of knowledge items, sharing acquired information about installation, integration and deployment for services on privately hosted and public clouds.
+• Developed, tested and monitored microservices in the datacenter cloud environments for Planning Analytics on Cloud platform using Python (Flask) and Node.js. Performing continuous integration and delivery of new microservices, on-demand trouble shooting of large-scale deployment issues on Linux systems. Started and maintained How-To series of knowledge items, sharing acquired information about installation, integration and deployment for services on privately hosted and public clouds.
 
-• Designed and implemented adaptive chatops framework for installation and customization of multitenant cloud environments and their integration with distributed data sources.
+• Designed and developed an adaptive ChatOps framework in Node.js to provide a single point of entry for all day-to-day operations in a hybrid cloud environment leading to a vast increase in operational excellence.  
 
-• Implement and maintain monitoring solutions at the server and application level in order to increase visibility into day-to-day operations and issues, utilizing NewRelic and Nagios. 
+• Participated in daily scrum sessions, providing a unique perspective on new features and debated ideas for maximal customer success leading to several recognitions from first line managers, second line managers and the Vice President of Business Analytics. 
 
 • Lead initiatives to transition critical software services into the Cloud and provided training for other employees on the Cloud transition process for other portions of the product/organization.
 
