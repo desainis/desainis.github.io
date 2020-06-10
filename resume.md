@@ -54,17 +54,6 @@ __SOCAN__, Toronto, ON
 
 • Developed a user-friendly, configurable data import technique that has become the standard for all new imports into Epicor.
 
-`2014-2014`
-__Leonardo__, Toronto, ON
-
-- Quality Assurance Analyst
-
-• Designed, developed, executed, and reviewed automated tests in Sikuli to ensure highly complex rules based products met design specifications and quality standards.
-
-• Grew the QA Engineering teams' technical knowledge and expertise by mentoring new interns of the team on technical and domain related areas. 
-
-• Partnered with developers and architects to design test driven development strategies and acceptance test plans using JIRA within a Scrum/Agile environment.
-
 ## Projects
 __Truck Tracker__, An [open source](https://github.com/desainis/truck-tracker) Java Spring application that tracks random trucks through a particular area built on top of AWS using Kubernetes. 
 
