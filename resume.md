@@ -72,5 +72,3 @@ __Truck Tracker__, An [open source](https://github.com/desainis/truck-tracker) J
 __Simple Kubernetes__, An [open source](https://github.com/desainis/simplek8s) React application that calculates the fibonacci sequence built using a kubernetes workflow on Google Cloud Platform.
 
 __Splink__, An [open source](https://github.com/desainis/splink) slackbot written in Node.js that helps manage infrastructure resources.
-
-__Analytiq__, An [open source](https://github.com/desainis/analytiq) slackbot written in Node.js that provides unique metrics for stocks.
