@@ -67,8 +67,8 @@ __Leonardo__, Toronto, ON
 • Partnered with developers and architects to design test driven development strategies and acceptance test plans using JIRA within a Scrum/Agile environment.
 
 ## Projects
-__Truck Tracker__, An [open source](https://github.com/desainis/truck-tracker) Java Spring application that tracks random trucks through a particular area built on top of AWS using Kubernetes. 
+[__Truck Tracker__](https://github.com/desainis/truck-tracker), An open source Java Spring application that tracks random trucks through a particular area built on top of AWS using Kubernetes. 
 
-__Simple Kubernetes__, An [open source](https://github.com/desainis/simplek8s) React application that calculates the fibonacci sequence built using a kubernetes workflow on Google Cloud Platform.
+[__Simple Kubernetes__](https://github.com/desainis/simplek8s), An open source React application that calculates the fibonacci sequence built using a kubernetes workflow on Google Cloud Platform.
 
-__Splink__, An [open source](https://github.com/desainis/splink) slackbot written in Node.js that helps manage infrastructure resources.
+[__Splink__](https://github.com/desainis/splink), An open source slackbot written in Node.js that helps manage infrastructure resources.
